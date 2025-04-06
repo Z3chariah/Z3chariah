@@ -1,9 +1,9 @@
 ## 🧠 Z3chariah
 
-**`Through Relentless iteration`**
+**`Better Every Day`**
 
 
-I am a Indie Game Developer, Learning Coach and Content Creator, and Biomedical Engineering Student aiming to break down the black box's of Game Development, Design, and Student Project Managment.
+I am a Learning Coach, Content Creator, and Computional Neuroscience Student, exploring Deep Learning and Machine Learning specifically as they relates to Natural Language Processing!
 
 
         
